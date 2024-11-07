@@ -2,18 +2,8 @@
   margin-bottom: 20px;
 }
 
-.label {
-  display: block;
-  font-size: 16px;
-  font-weight: 500;
-  color: #333;
-}
-
 .input {
-  width: 100%;
   padding: 8px;
+  width: 100%;
   font-size: 16px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  margin-top: 5px;
 }
